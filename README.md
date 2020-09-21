@@ -1,11 +1,17 @@
-### Hi there, Welcome on my GitHub Profile. 👋
 
-I am a 19 years old Full-Stack Software and Web Developer from Ingolstadt, Germany.
+### Hi! I'm [Jonas](https://jonas.ampferl.com) 👋🏼
 
----
+I'm a **Full-Stack Developer** based in Ingolstadt, Germany 🌍. I'm a coding passionate focused on **C++**, **Java**, **NodeJS** and **Python**.<br> 
+Very interested in **Linux**, **Cryptography**, **Blockchain** and **Machine learning**. And loves design, tech and **OpenSource** ❤️
 
-[#opensource](https://github.com/topics/opensource) [#linux](https://github.com/topics/linux) [#python](https://github.com/topics/python) [#c](https://github.com/topics/c) [#c++](https://github.com/topics/cpp) [#java](https://github.com/topics/java) [#nodejs](https://github.com/topics/nodejs) [#docker](https://github.com/topics/docker) [#blockchain](https://github.com/topics/blockchain) [#cryptography](https://github.com/topics/cryptography) [#apis](https://github.com/topics/api) [#databases](https://github.com/topics/database) [#security](https://github.com/topics/security)
+Aside from coding I enjoy [taking photos](https://jonas.ampferl.com/#gallery)📷 and drawing pictures✍️
 
----
-- Email: [jonas@ampferl.com](mailto:jonas@ampferl.com)
-- Portfolio: [jonas.ampferl.com](https://jonas.ampferl.com/)
+<p>
+  <a href="mailto:jonas@ampferl.com">
+    <img src="https://i.imgur.com/N0qE3FO.png" width="150" alt="Contact Me" title="jonas@ampferl.com">
+  </a>
+
+  <a href="https://jonas.ampferl.com">
+    <img src="https://i.imgur.com/PQNiN4E.png" width="150" alt="Portfolio" title="Portfolio">
+  </a>
+</p>
